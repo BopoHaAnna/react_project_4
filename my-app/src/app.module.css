@@ -44,9 +44,9 @@ button {
 	transition: background-color 0.2s;
 }
 
-button:hover {
+/*button:hover {
 	background-color: #0056b3;
-}
+}*/
 
 .errorLabel {
 	color: red;
